@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-<!--
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=phanuwit1&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
+
+
 **phanuwit1/phanuwit1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
